@@ -1,6 +1,8 @@
 name: Compile course
 on:
   push:
+    branches:
+      - main
   pull_request:
   workflow_dispatch:
 jobs:
@@ -31,7 +33,7 @@ jobs:
           poetry run python -m naucse_render compile _compiled \
             --edit-repo-url https://github.com/${{ github.repository }} \
             --edit-repo-branch ${{ github.ref_name }}
-    - if: ${{ startsWith(github.ref, 'refs/heads/') }}
+    - if: ${{ github.ref == 'refs/heads/main' }}
       name: Publish compiled courses
       run: |
         git fetch origin compiled/${{ github.ref_name }} || :
