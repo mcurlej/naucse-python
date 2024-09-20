@@ -168,7 +168,6 @@ První krok bude naprogramovat vesmírnou loď, která půjde ovládat klávesni
   [ Mat4](https://pyglet.readthedocs.io/en/latest/modules/math.html#pyglet.math.Mat4).
 
 Povedlo se? Můžeš létat vesmírem?
-Čas to všechno dát do Gitu!
 
 Projdi si předchozí body, jestli máš opravdu všechno, a můžeš pokračovat dál!
 
@@ -205,7 +204,6 @@ Přidej druhý typ vesmírného objektu: `Asteroid`.
   na začátku do hry.
 
 Povedlo se? Máš dva typy objektů?
-Čas to všechno dát do Gitu!
 
 Zase si projdi, jestli máš všechno hotové,
 a jdeme na další část!
@@ -283,7 +281,6 @@ Naše asteroidy jsou zatím docela neškodné. Pojďme to změnit.
   Metoda `hit_by_spaceship` by tedy na to měla mít argument.
 
 Povedlo se? Konečně se dá prohrát?
-Čas to všechno zkontrolovat, dát do Gitu a můžeme pokračovat!
 
 ## Útok
 
@@ -319,7 +316,7 @@ Teď zkusíme asteroidy rozbíjet.
   Většinou bývají nové asteroidy rychlejší než ten původní.
 * A to je vše! Máš funkční hru!
 
-Povedlo se? Dá se i vyhrát? Čas to všechno dát do Gitu!
+Povedlo se? Dá se i vyhrát?
 
 
 ## Dokončení a rozšíření
@@ -391,4 +388,3 @@ vlastní rozšíření!
   a z `Laser` podědit `ShipLaser` a `UfoLaser`.
 
 Povedlo se? Vypadá to a chová se to profesionálně?
-Čas to všechno dát do Gitu!
