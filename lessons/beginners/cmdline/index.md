@@ -45,14 +45,14 @@ se na různých systémech otevírá různě:
 
 Nevíš-li si rady, zkus buď googlit, nebo se zeptat někoho zkušenějšího.
 
-Po otevření konzole tě uvítá *výzva* (angl. *prompt*): řádek,
+Po otevření konzole tě uvítá *výzva* (angl. *prompt*): řádek –
 kterým počítač vybízí k zadání příkazu.
 Výzva končí na Unixových systémech (např. Linux a macOS) znakem `$`;
 na Windows znakem `>`.
 
 Před tím znakem `$` nebo `>` budou nejspíš ještě nějaké další
 informace, které jsou ovšem v těchto materiálech vynechané.
-A budou vynechané i ve většině ostatních návodů co najdeš na internetu.
+A budou vynechané i ve většině ostatních návodů, co najdeš na internetu.
 Na každém počítači totiž můžou být trochu jiné.
 
 {% call sidebyside(titles=['Unix (Linux, macOS)', 'Windows']) %}
@@ -95,7 +95,7 @@ pocitac\Helena
 {% endcall %}
 
 > [note]
-> Znak `$` nebo `>` je v ukázce jen proto, aby bylo jasné že zadáváš
+> Znak `$` nebo `>` je v ukázce jen proto, aby bylo jasné, že zadáváš
 > příkaz do příkazové řádky.
 > Vypíše ho počítač, většinou ještě s něčím před ním,
 > takže ho nepiš {{gnd('sám','sama')}}! Zadej jen `whoami` a <kbd>Enter</kbd>.
@@ -130,7 +130,7 @@ ukazuje něco jiného.
 
 Něco jako aktuální adresář možná znáš z grafických programů,
 kterými vybíráš soubory: typicky mají v horní (nebo na Macu dolní)
-části uvedeno který adresář zrovna ukazují.
+části uvedeno, který adresář zrovna ukazují.
 Příkazová řádka umí soubory ukazovat taky – ale musíš si o to říct.
 
 
@@ -374,7 +374,7 @@ Příkazů existuje samozřejmě daleko víc.
 Když se je naučíš, můžeš z příkazové řádky plnohodnotně ovládat
 počítač: vytvářet soubory, mazat je, pouštět programy, měnit nastavení
 a podobně.
-Vydalo by to ale vydalo na samostatný kurz, a tak tady skončíme.
+Vydalo by to ale na samostatný kurz, a tak tady skončíme.
 
 Vyzkoušej si ještě jeden příkaz, ten, který příkazovou řádku zavírá: `exit`.
 
@@ -435,5 +435,5 @@ Tady je tabulka základních příkazů, se kterými si do začátku vystačíš
     </tr>
 </table>
 
-Další příkazy jako `python` nebo `git` si vysvětlíme až budou potřeba,
+Další příkazy jako `python` nebo `git` si vysvětlíme, až budou potřeba,
 po tom, co si je nainstaluješ.
