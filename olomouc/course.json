@@ -2519,7 +2519,7 @@
                 "title": "Snake"
             }
         },
-        "long_description": "<p>Vítáme tě v Začátečnickém kurzu Pythonu od PyLadies Olomouc.</p>\n<p>Níže najdeš materiály ke kurzu, který začíná 8. 10. 2024.</p>\n<p>Jednotlivé lekce jsou určeny naprostým začátečnicím. Instrukce jsou uvedeny pro operační systémy Linux, Windows i macOS.</p>\n<p>Stránky samotných PyLadies najdeš na https://pyladies.cz.</p>\n<p>Domácí úkoly k jednotlivým lekcím najdeš na https://projekty.pyladies.cz/.</p>\n<p>Zpětnou vazbu na konci každé lekce můžeš zadat na https://zpetnovazebnik.pyladies.cz/.</p>",
+        "long_description": "<p>Vítáme tě v Začátečnickém kurzu Pythonu od PyLadies Olomouc.</p>\n<p>Níže najdeš materiály ke kurzu, který začíná 8. 10. 2024.</p>\n<p>Jednotlivé lekce jsou určeny naprostým začátečnicím. Instrukce jsou uvedeny pro operační systémy Linux, Windows i macOS.</p>\n<p>Stránky samotných PyLadies najdeš na https://pyladies.cz.</p>\n<p>Domácí úkoly k jednotlivým lekcím najdeš na https://projekty.pyladies.cz/.</p>\n<p>Po každé lekci na Slacku nasdílíme odkaz na poskytnutí zpětné vazby.</p>",
         "place": "Edhouse, s. r. o., Masarykova třída 936/50, 779 00, Olomouc",
         "sessions": [
             {
