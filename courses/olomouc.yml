@@ -1,24 +1,24 @@
 title: Začátečnický kurz Pythonu
-subtitle: Olomouc - podzim 2024
-time: každe úterý od 17:30 do 19:30
+subtitle: Olomouc - jaro 2025
+time: každu středu od 17:30 do 19:30
 default_time:
   start: '17:30'
   end: '19:30'
 timezone: Europe/Prague
-place: Edhouse, s. r. o., Masarykova třída 936/50, 779 00, Olomouc
+place: Přírodovědecká fakulta univerzity Palackého - hlavní budova, tř. 17. listopadu 1192/12, 779 00 Olomouc
 description: Naučte se Python vážně od začátku. Žádné předchozí znalosti nejsou potřeba.
 long_description: |
-    Vítáme tě v Začátečnickém kurzu Pythonu od PyLadies Olomouc.
+    Vítáme tě v Začátečnickém kurzu Pythonu PyLadies Olomouc.
     
-    Níže najdeš materiály ke kurzu, který začíná 8. 10. 2024. 
+    Níže najdeš materiály ke kurzu, který začíná 5. 3. 2025. 
 
     Jednotlivé lekce jsou určeny naprostým začátečnicím. Instrukce jsou uvedeny pro operační systémy Linux, Windows i macOS.
     
-    Stránky samotných PyLadies najdeš na https://pyladies.cz.
+    Stránky samotných PyLadies najdeš na [https://pyladies.cz](https://pyladies.cz).
 
-    Domácí úkoly k jednotlivým lekcím najdeš na https://projekty.pyladies.cz/.
+    Domácí úkoly k jednotlivým lekcím najdeš na [https://projekty.pyladies.cz/](https://projekty.pyladies.cz/).
 
-    Zpětnou vazbu na konci každé lekce můžeš zadat na https://zpetnovazebnik.pyladies.cz/. 
+    Zpětnou vazbu na konci každé lekce můžeš zadat na [https://zpetnovazebnik.pyladies.cz/](https://zpetnovazebnik.pyladies.cz/). 
 vars:
   pyladies: true
   coach-present: true
@@ -52,7 +52,7 @@ sessions:
 
 - slug: hello_world
   title: První program
-  date: 2024-10-08
+  date: 2025-03-05
   materials:
   - title: Studijní materiály
   - lesson: beginners/first-steps
@@ -75,7 +75,7 @@ sessions:
 
 - slug: conditions
   title: Podmínky a funkce
-  date: 2024-10-15
+  date: 2025-03-12
   materials: 
   - title: Studijní materiály
   - lesson: beginners/expressions
@@ -101,7 +101,7 @@ sessions:
 
 - slug: loops
   title: Želva 🐢 a cykly
-  date: 2024-10-22
+  date: 2025-03-19
   materials: 
   - title: Studijní materiály
   - lesson: intro/turtle
@@ -118,7 +118,7 @@ sessions:
 
 - slug: strings
   title: Řetězce
-  date: 2024-10-29
+  date: 2025-03-26
   materials: 
   - title: Studijní materiály
   - lesson: beginners/str
@@ -141,7 +141,7 @@ sessions:
 
 - slug: functions
   title: Vlastní funkce
-  date: 2024-11-05
+  date: 2025-04-02
   materials: 
   - title: Studijní materiály
   - lesson: beginners/def
@@ -165,7 +165,7 @@ sessions:
 
 - slug: exceptions
   title: Chyby a moduly
-  date: 2024-11-12
+  date: 2025-04-09
   materials: 
   - title: Studijní materiály
   - lesson: beginners/exceptions
@@ -185,7 +185,7 @@ sessions:
 
 - slug: test
   title: Rozhraní a testy
-  date: 2024-11-19
+  date: 2025-04-16
   materials: 
   - title: Studijní materiály
   - lesson: beginners/interfaces
@@ -204,7 +204,7 @@ sessions:
 
 - slug: list
   title: Seznamy a n-tice
-  date: 2024-11-26
+  date: 2025-04-23
   materials: 
   - title: Studijní materiály
   - lesson: beginners/list
@@ -223,7 +223,7 @@ sessions:
   
 - slug: file
   title: Sekvence a soubory
-  date: 2024-12-03
+  date: 2025-04-30
   materials: 
   - title: Studijní materiály
   - lesson: beginners/range
@@ -241,7 +241,7 @@ sessions:
 
 - slug: dict
   title: Slovníky
-  date: 2024-12-10
+  date: 2025-05-07
   materials: 
   - title: Studijní materiály
   - lesson: beginners/dict
@@ -265,7 +265,7 @@ sessions:
 
 - slug: class
   title: Třídy a dědičnost
-  date: 2024-12-17
+  date: 2025-05-14
   materials: 
   - title: Studijní materiály
   - lesson: beginners/class
@@ -279,7 +279,7 @@ sessions:
 
 - slug: pyglet
   title: Grafika
-  date: 2025-01-07
+  date: 2025-05-21
   materials: 
   - title: Studijní materiály
   - lesson: intro/pyglet
@@ -294,7 +294,7 @@ sessions:
 
 - slug: final_projects
   title: Závěrečný projekt
-  date: 2025-01-14
+  date: 2025-05-28
   materials: 
   - title: Studijní materiály
   - lesson: projects/asteroids
@@ -310,9 +310,9 @@ sessions:
 - slug: final_projects_2
   title: Pokračování závěrečného projektu
   description: V této lekci budeme pokračovat v dalších fázích závěrečného projektu.
-  date: 2025-01-21
+  date: 2025-06-04
 
 - slug: end
   title: Závěrečná hodina
   description: Během závěrečné hodiny si předáme diplomy a seznámíme se s možnostmi pokračování studia
-  date: 2025-01-28
+  date: 2025-06-11

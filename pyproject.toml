@@ -4,6 +4,7 @@ version = "0"
 description = "Python course for beginners"
 authors = ["Petr Viktorin <encukou@gmail.com>"]
 license = "CC-BY-SA-4.0"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.9"
