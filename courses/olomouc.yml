@@ -247,9 +247,6 @@ sessions:
   - lesson: beginners/dict
   - lesson: beginners/dict-with-list-values
   - lesson: intro/json
-  - title: Ukázka jednoduchého API
-    type: lesson
-    url: http://pyladies.cz/v1/s011-dicts/simple-api.html
   - title: Videa ke shlédnutí
   - title: (19:23) Slovníky - video
     url: https://youtu.be/OVnUhWwd2C0
