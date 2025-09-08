@@ -1,6 +1,6 @@
 title: Začátečnický kurz Pythonu
-subtitle: Olomouc - jaro 2025
-time: každu středu od 17:30 do 19:30
+subtitle: Olomouc - podzim 2025
+time: každe úterý od 17:30 do 19:30
 default_time:
   start: '17:30'
   end: '19:30'
@@ -10,7 +10,7 @@ description: Naučte se Python vážně od začátku. Žádné předchozí znalo
 long_description: |
     Vítáme tě v Začátečnickém kurzu Pythonu PyLadies Olomouc.
     
-    Níže najdeš materiály ke kurzu, který začíná 5. 3. 2025. 
+    Níže najdeš materiály ke kurzu, který začíná 7. 10. 2025. 
 
     Jednotlivé lekce jsou určeny naprostým začátečnicím. Instrukce jsou uvedeny pro operační systémy Linux, Windows i macOS.
     
@@ -52,7 +52,7 @@ sessions:
 
 - slug: hello_world
   title: První program
-  date: 2025-03-05
+  date: 2025-10-07
   materials:
   - title: Studijní materiály
   - lesson: beginners/first-steps
@@ -75,7 +75,7 @@ sessions:
 
 - slug: conditions
   title: Podmínky a funkce
-  date: 2025-03-12
+  date: 2025-10-14
   materials: 
   - title: Studijní materiály
   - lesson: beginners/expressions
@@ -101,7 +101,7 @@ sessions:
 
 - slug: loops
   title: Želva 🐢 a cykly
-  date: 2025-03-19
+  date: 2025-10-21
   materials: 
   - title: Studijní materiály
   - lesson: intro/turtle
@@ -118,7 +118,7 @@ sessions:
 
 - slug: strings
   title: Řetězce
-  date: 2025-03-26
+  date: 2025-11-04
   materials: 
   - title: Studijní materiály
   - lesson: beginners/str
@@ -141,7 +141,7 @@ sessions:
 
 - slug: functions
   title: Vlastní funkce
-  date: 2025-04-02
+  date: 2025-11-11
   materials: 
   - title: Studijní materiály
   - lesson: beginners/def
@@ -165,7 +165,7 @@ sessions:
 
 - slug: exceptions
   title: Chyby a moduly
-  date: 2025-04-09
+  date: 2025-11-18
   materials: 
   - title: Studijní materiály
   - lesson: beginners/exceptions
@@ -183,28 +183,28 @@ sessions:
     url: https://pyvec.github.io/cheatsheets/exceptions/exceptions-cs.pdf
     type: cheatsheet
 
-- slug: test
-  title: Rozhraní a testy
-  date: 2025-04-16
-  materials: 
-  - title: Studijní materiály
-  - lesson: beginners/interfaces
-  - lesson: beginners/testing
-  - lesson: beginners/main-module
-  - title: Videa ke shlédnutí
-  - title: (6:51) Rozhraní - video
-    url: https://youtu.be/xQ7J_R8VAJQ
-  - title: (15:25) Testování - video
-    url: https://youtu.be/-KS_VRerZQ0
-  - title: (10:12) Spouštěcí moduly - video
-    url: https://youtu.be/S6HyFIUyPTw
-  - title: (3:53) Negativní testy - video
-    url: https://youtu.be/s-KPxX5ZcMs
-  - title: Další odkazy a materiály
+#- slug: test
+#  title: Rozhraní a testy
+#  date: 2025-04-16
+#  materials: 
+#  - title: Studijní materiály
+#  - lesson: beginners/interfaces
+#  - lesson: beginners/testing
+#  - lesson: beginners/main-module
+#  - title: Videa ke shlédnutí
+#  - title: (6:51) Rozhraní - video
+#    url: https://youtu.be/xQ7J_R8VAJQ
+#  - title: (15:25) Testování - video
+#    url: https://youtu.be/-KS_VRerZQ0
+#  - title: (10:12) Spouštěcí moduly - video
+#    url: https://youtu.be/S6HyFIUyPTw
+#  - title: (3:53) Negativní testy - video
+#    url: https://youtu.be/s-KPxX5ZcMs
+#  - title: Další odkazy a materiály
 
 - slug: list
   title: Seznamy a n-tice
-  date: 2025-04-23
+  date: 2025-11-25
   materials: 
   - title: Studijní materiály
   - lesson: beginners/list
@@ -223,7 +223,7 @@ sessions:
   
 - slug: file
   title: Sekvence a soubory
-  date: 2025-04-30
+  date: 2025-12-02
   materials: 
   - title: Studijní materiály
   - lesson: beginners/range
@@ -241,7 +241,7 @@ sessions:
 
 - slug: dict
   title: Slovníky
-  date: 2025-05-07
+  date: 2025-12-09
   materials: 
   - title: Studijní materiály
   - lesson: beginners/dict
@@ -262,7 +262,7 @@ sessions:
 
 - slug: class
   title: Třídy a dědičnost
-  date: 2025-05-14
+  date: 2025-12-16
   materials: 
   - title: Studijní materiály
   - lesson: beginners/class
@@ -276,7 +276,7 @@ sessions:
 
 - slug: pyglet
   title: Grafika
-  date: 2025-05-21
+  date: 2026-01-06
   materials: 
   - title: Studijní materiály
   - lesson: intro/pyglet
@@ -291,7 +291,7 @@ sessions:
 
 - slug: final_projects
   title: Závěrečný projekt
-  date: 2025-05-28
+  date: 2026-01-13
   materials: 
   - title: Studijní materiály
   - lesson: projects/asteroids
@@ -303,13 +303,15 @@ sessions:
   - title: Množinový tahák
     url: https://pyvec.github.io/cheatsheets/sets/sets-cs.pdf
     type: cheatsheet
+  - title: Hadí workshop
+    url: https://naucse.python.cz/2025/snake-brno-podzim/
 
-- slug: final_projects_2
-  title: Pokračování závěrečného projektu
-  description: V této lekci budeme pokračovat v dalších fázích závěrečného projektu.
-  date: 2025-06-04
+#- slug: final_projects_2
+#  title: Pokračování závěrečného projektu
+#  description: V této lekci budeme pokračovat v dalších fázích závěrečného projektu.
+#  date: 2025-06-04
 
 - slug: end
   title: Závěrečná hodina
   description: Během závěrečné hodiny si předáme diplomy a seznámíme se s možnostmi pokračování studia
-  date: 2025-06-11
+  date: 2026-01-20
