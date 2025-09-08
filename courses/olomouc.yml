@@ -5,7 +5,7 @@ default_time:
   start: '17:30'
   end: '19:30'
 timezone: Europe/Prague
-place: Přírodovědecká fakulta univerzity Palackého - hlavní budova, 17. listopadu 1192/12, 779 00 Olomouc
+place: Učebna číslo 5008 na 5. podlaží, Přírodovědecká fakulta Univerzity Palackého v Olomouci - hlavní budova, 17. listopadu 1192/12, 779 00 Olomouc
 description: Naučte se Python vážně od začátku. Žádné předchozí znalosti nejsou potřeba.
 long_description: |
     Vítáme tě v Začátečnickém kurzu Pythonu PyLadies Olomouc.
