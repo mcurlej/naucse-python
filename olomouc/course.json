@@ -2406,7 +2406,7 @@
             }
         },
         "long_description": "<p>Vítáme tě v Začátečnickém kurzu Pythonu PyLadies Olomouc.</p>\n<p>Níže najdeš materiály ke kurzu, který začíná 7. 10. 2025.</p>\n<p>Jednotlivé lekce jsou určeny naprostým začátečnicím. Instrukce jsou uvedeny pro operační systémy Linux, Windows i macOS.</p>\n<p>Stránky samotných PyLadies najdeš na <a href=\"https://pyladies.cz\">https://pyladies.cz</a>.</p>\n<p>Domácí úkoly k jednotlivým lekcím najdeš na <a href=\"https://projekty.pyladies.cz/\">https://projekty.pyladies.cz/</a>.</p>\n<p>Zpětnou vazbu na konci každé lekce můžeš zadat na <a href=\"https://zpetnovazebnik.pyladies.cz/\">https://zpetnovazebnik.pyladies.cz/</a>.</p>",
-        "place": "Přírodovědecká fakulta univerzity Palackého - hlavní budova, 17. listopadu 1192/12, 779 00 Olomouc",
+        "place": "Učebna číslo 5008 na 5. poschodí, Přírodovědecká fakulta univerzity Palackého - hlavní budova, 17. listopadu 1192/12, 779 00 Olomouc",
         "sessions": [
             {
                 "materials": [
